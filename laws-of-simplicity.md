@@ -10,11 +10,11 @@ This is the structure I'm following:
 
 ---
 
-### The Laws of Simplicity
+### 10 Laws
 
 ---
 
-### Reduce
+### 1. Reduce
 > The simplest way to achieve simplicity is through thoughtful reduction.
 
 - The easiest way to simplify a system is to remove functionality.
@@ -22,7 +22,7 @@ This is the structure I'm following:
 
 ---
 
-### Organize
+### 2. Organize
 > Organization makes a system of many appear fewer.
 
 - Typical solutions have mixed results.
@@ -37,7 +37,7 @@ This is the structure I'm following:
 
 ---
 
-### Time
+### 3. Time
 > Savings in time feel like simplicity.
 
 - Waiting is subtle. When forced to wait, life seems unnecessarily complex.
@@ -45,13 +45,15 @@ This is the structure I'm following:
 
 ---
 
-### Learn
+### 4. Learn
 > Knowledge makes everything simpler.
 
 -  "The problem with taking time to learn a task is that you often feel you are wasting time, a violation of the third Law."
 (Not sure if I agree with anything stated under this law.)
 
-### Differences
+---
+
+### 5. Differences
 > Simplicity and complexity need each other.
 
 - Nobody wants to have only simplicity.
@@ -59,35 +61,62 @@ This is the structure I'm following:
 - We know how to appreciate something better when we can compare it to something else. (I don't like the implications of this idea)
 - There is a clear economic benefit to adopting a strategy of simplicity that will help set your product apart. (ugh...)
 
-### Context
+---
+
+### 6. Context
 > What lies in the periphery of simplicity is definitely not peripheral.
 
 - Focus isn't always a good thing. (Disagree. Unfortunate way to try to make a point.)
 - Goal: "Finding the meaning of everything around, instead of just what I directly faced."
 
+---
 
-### Emotion
+### 7. Emotion
 > More emotions are better than less.
 
 - When emotions are considered above everything else, don't be afraid to add more ornament or layers of meaning.
 (Totally disagree with the assumption of 'more ornament' to 'more emotion/meaning'. His example of 'people who like bling instead of simple things' is particularly misleading and it's misreading the situation.)
 
-### Trust
+---
+
+### 8. Trust
 > In simplicity we trust.
 
 - Every day the computer becomes increasingly smarter. It already knows your name, address, and credit card number. (What?)
 - Trust is the price of not having to think. (ugh...)
 
-### Failure
+---
+
+### 9. Failure
 > Some things can never be made simple.
 
 - Leverages an unfortunate event to radically shift perspective.
 - One person's failed experiment in simplicity can be another person's success as a beautiful form of complexity.
 - Deeming something as complex or simple requires a frame of reference.
 
-### The one
+---
+
+### 10. The one
 > Simplicity is about subtracting the obvious, and adding the meaningful.
 
 - Ten laws (10: one, zero), remove none (0: zero), and you're left with one (10: one). When in doubt, turn to the tenth Law: the one. It's simpler that way.
-(An unnecesary law. I'd have removed it for the sake of simplicity.)
+(An unnecesary joke of a law. I'd have removed it for the sake of simplicity.)
+
+---
+
+### 3 Key Concepts
+
+---
+
+- Key 1. Away
+  - More appears like less by simply moving it far, far away.
+
+- Key 2. Open
+  - Openness simplifies complexity.
+  - "With an open system, the power of the many can outweigh the power of the few."
+
+- Key 3. Power
+  - Use less, gain more.
+  - "The only foreseeable solution is for humanity to collectively use less energy, and to use it more wisely." (???)
+
 
