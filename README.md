@@ -1,1 +1,1 @@
-- [The Laws of Simplicity]. John Maeda (laws-of-simplicity.md)
+- [The Laws of Simplicity](laws-of-simplicity.md). John Maeda
