@@ -1,6 +1,18 @@
 # The Laws of Simplicity
 ###### Author: John Maeda
 
+This is the structure I'm following:
+
+### Law
+> Statement.
+
+- Notes.
+
+---
+
+
+### The Laws of Simplicity
+
 
 ### Reduce
 > The simplest way to achieve simplicity is through thoughtful reduction.
@@ -35,6 +47,7 @@
 
 ### Learn
 > Knowledge makes everything simpler.
+
 
 
 
