@@ -1,10 +1,12 @@
 # Creativity, Inc.
 ###### Author: Ed Catmull, Amy Wallace
 
-Notes & highlights.
+## Table of Contents
 
 - [Introduction: Lost and Found](#introduction-lost-and-found)
 - [Chapter 1: Animated](#chapter-1-animated)
+- [Chapter 2: Pixar is Born](#chapter-2-pixar-is-born)
+- [Chapter 3: A Defining Goal](#chapter-3-a-defining-goal)
 
 ---
 
@@ -28,6 +30,8 @@ Notes & highlights.
 
 - I believe the best managers acknowledge and make room for what they do not know, not just because humility is a virtue but because until one adopts that mindset, the most striking breakthroughs cannot occur.
 
+- [Back to top](#table-of-contents)
+
 ---
 
 ### Chapter 1: Animated
@@ -50,9 +54,71 @@ Notes & highlights.
 
 - [...] each time I expressed that goal in job interviews at universities, it seemed to cast a pall over the room. “But we want you to teach computer science,” my interviewers would say. What I was proposing to do looked, to most academics, like a pipe dream, an expensive fantasy.
 
+- [Back to top](#table-of-contents)
+
 ---
 
 ### Chapter 2: Pixar is Born
+
+- In the next decade, I would learn much about what managers should and shouldn’t do, about vision and delusion, about confidence and arrogance, about what encourages creativity and what snuffs it out.
+
+- Always take a chance on better, even if it seems threatening.
+
+- The bigger my staff became, the more urgent it was that I figure out how to manage them.
+
+- [...] giving a ton of freedom to highly self-motivated people enabled us to make some significant technological leaps in a short time.
+
+- The blur keeps our brains from noticing the sharp edges, and our brains regard this blur as natural. Without motion blur, our brains think something is wrong.
+
+- [...] to share our work with the outside world. My view was that we were all so far from achieving our goal that to hoard ideas only impeded our ability to get to the finish line.
+
+- [...] it wasn’t enough for managers to have good ideas, they had to be able to engender support for those ideas among the people who’d be charged with employing them.
+
+- [...] leaving the studio in the hands of a group of lesser artists who had been waiting in the wings for decades. These men felt that it was their turn to be in charge but were so insecure about their standing within the company that they clung to their newfound status by stifling—not encouraging—younger talents.
+
+- For all the care you put into artistry, visual polish frequently doesn’t matter if you are getting the story right.
+
+- Steve was hard-charging—relentless, even—but a conversation with him took you places you didn’t expect. It forced you not just to defend but also to engage. And that in itself, I came to believe, had value.
+
+- This would be the kind of strategic, aggressive play that would define Steve’s stewardship of Pixar for years to come—once we joined forces, he became our protector, as fierce on our behalf as he was on his own.
+
+- [Back to top](#table-of-contents)
+
+---
+
+### Chapter 3: A Defining Goal
+
+- There is nothing quite like ignorance combined with a driving need to succeed to force rapid learning.
+
+- the Japanese would have much to teach me about building a creative environment.
+
+- The responsibility for finding and fixing problems should be assigned to every employee, from the most senior manager to the lowliest person on the production line. [...] the Japanese assembly line became a place where workers’ engagement strengthened the resulting product.
+
+- You don’t have to ask permission to take responsibility.
+
+- We’d been the first to make a movie with computers, and—even better—audiences were touched, and touched deeply, by the story we told.
+
+- For twenty years, my life had been defined by the goal of making the first computer graphics movie. Now that that goal had been reached, I had what I can only describe as a hollow, lost feeling. As a manager, I felt a troubling lack of purpose.
+
+- Pixar was now public and successful, yet there was something unsatisfying about the prospect of merely keeping it running.
+
+- production managers told me that working on Toy Story had been a nightmare. They felt disrespected and marginalized—like second-class citizens. And while they were gratified by Toy Story’s success, they were very reluctant to sign on to work on another film at Pixar.
+
+- In their world (conventional Hollywood productions) freelancers came together to make a film, worked side by side for several months, and then scattered to the winds. Complaining tended to cost you future work opportunities, so they kept their mouths shut. It was only when asked to stay on at Pixar that they voiced their objections.
+
+- That they liked so much of what they were doing allowed them to put up with the parts of the job they came to resent. This was a revelation to me: The good stuff was hiding the bad stuff.
+
+- If you have something to say, it needs to be communicated through your direct manager. If an animator wanted to talk to a modeler, for example, they were required to go through “proper channels.” The artists and technical people experienced this everything-goes-through-me mentality as irritating and obstructionist. I think of it as well-intentioned micromanaging.
+
+- we had made the mistake of confusing the communication structure with the organizational structure.
+
+- our purpose was not merely to build a studio that made hit films but to foster a creative culture that would continually ask questions.
+
+- We were blessed with a remarkable group of employees who valued change, risk, and the unknown and who wanted to rethink how we create.
+
+- [Back to top](#table-of-contents)
+
+--- 
 
 _
 
