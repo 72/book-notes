@@ -124,7 +124,17 @@
 
 - The first principle was “Story Is King”. The other principle we depended on was “Trust the Process.”
 
--
+- All of us assumed that an inexperienced team—when backed up by an experienced team—would be able to simply replicate the success of our first film.
+
+- If you give a good idea to a mediocre team, they will screw it up. If you give a mediocre idea to a brilliant team, they will either fix it or throw it away and come up with something better.
+
+- Getting the team right is the necessary precursor to getting the ideas right.
+
+- It is easy to say you want talented people, and you do, but the way those people interact with one another is the real key. Ideas come from people. Therefore, people are more important than ideas. Find, develop, and support good people, and they in turn will find, develop, and own good ideas.
+
+- Merely repeating ideas means nothing. It is the responsibility of good leaders to make sure that words remain attached to the meanings and ideals they represent.
+
+- Because we are often working to invent something that doesn’t yet exist, it can be scary to come to work. How, then, do you move forward when so little is visible and so much is unknown? “Quality is the best business plan.”
 
 - [Back to top](#table-of-contents)
 
