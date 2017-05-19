@@ -118,7 +118,15 @@
 
 - [Back to top](#table-of-contents)
 
---- 
+---
+
+### Chapter 4: Establishing Pixar's Identity
+
+- The first principle was “Story Is King”. The other principle we depended on was “Trust the Process.”
+
+-
+
+- [Back to top](#table-of-contents)
 
 _
 
