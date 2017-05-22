@@ -4,9 +4,13 @@
 ## Table of Contents
 
 - [Introduction: Lost and Found](#introduction-lost-and-found)
+Part I: Getting Started
 - [Chapter 1: Animated](#chapter-1-animated)
 - [Chapter 2: Pixar is Born](#chapter-2-pixar-is-born)
 - [Chapter 3: A Defining Goal](#chapter-3-a-defining-goal)
+- [Chapter 4: Establishing Pixar's Identity](#chapter-4-establishing-pixars-identity)
+Part II: Protecting the New
+- [Chapter 5: Honesty and Candor](#chapter-5-honesty-and-candor)
 
 ---
 
@@ -33,6 +37,8 @@
 - [Back to top](#table-of-contents)
 
 ---
+
+## Part I: Getting Started
 
 ### Chapter 1: Animated
 
@@ -137,6 +143,19 @@
 - Because we are often working to invent something that doesn’t yet exist, it can be scary to come to work. How, then, do you move forward when so little is visible and so much is unknown? “Quality is the best business plan.”
 
 - [Back to top](#table-of-contents)
+
+---
+
+## Part II: Protecting the New
+### Chapter 5: Honesty and Candor
+
+- Candor is forthrightness or frankness, not so different from honesty, really. And yet, in common usage, the word communicates not just truth-telling but a lack of reserve.
+
+- People who take on complicated creative projects become lost at some point in the process. The process of coming to clarity takes patience and candor.
+
+- You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.
+
+- The key is to look at the viewpoints being offered, in any successful feedback group, as additive, not competitive. A competitive approach measures other ideas against your own, turning the discussion into a debate to be won or lost. An additive approach, on the other hand, starts with the understanding that each participant contributes something
 
 _
 
