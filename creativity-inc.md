@@ -4,13 +4,18 @@
 ## Table of Contents
 
 - [Introduction: Lost and Found](#introduction-lost-and-found)
+
 Part I: Getting Started
 - [Chapter 1: Animated](#chapter-1-animated)
 - [Chapter 2: Pixar is Born](#chapter-2-pixar-is-born)
 - [Chapter 3: A Defining Goal](#chapter-3-a-defining-goal)
 - [Chapter 4: Establishing Pixar's Identity](#chapter-4-establishing-pixars-identity)
+
 Part II: Protecting the New
 - [Chapter 5: Honesty and Candor](#chapter-5-honesty-and-candor)
+- [Chapter 6: Fear and Failure](#chapter-6-fear-and-failure)
+- [Chapter 7: The Hungry Beast and the Ugly Baby](#chapter-7-the-hungry-beast-and-the-ugly-baby)
+
 
 ---
 
@@ -156,6 +161,34 @@ Part II: Protecting the New
 - You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.
 
 - The key is to look at the viewpoints being offered, in any successful feedback group, as additive, not competitive. A competitive approach measures other ideas against your own, turning the discussion into a debate to be won or lost. An additive approach, on the other hand, starts with the understanding that each participant contributes something
+
+---
+
+### Chapter 6: Fear and Failure
+
+- From a very early age, the message is drilled into our heads: Failure is bad; failure means you didn’t study or prepare; failure means you slacked off or—worse!—aren’t smart enough to begin with. Thus, failure is something to be ashamed of. We need to think about failure differently.
+
+- “The process of developing a story is one of discovery,”
+
+- When experimentation is seen as necessary and productive, not as a frustrating waste of time, people will enjoy their work even when it is confounding them.
+
+- Experiments are fact-finding missions that, over time, inch scientists toward greater understanding.
+
+- To be a truly creative company, you must start things that might fail.
+
+- As leaders, we should think of ourselves as teachers and try to create companies in which teaching is seen as a valued way to contribute to the success of the whole.
+
+- When we are new to the position, we imagine what the job is in order to get our arms around it, then we compare ourselves against our made-up model. The trick is to forget our models about what we “should” be. Management’s job is not to prevent risk but to build the ability to recover.
+
+---
+
+### Chapter 7: The Hungry Beast and the Ugly Baby
+
+- Making the process better, easier, and cheaper is an important aspiration, something we continually work on—but it is not the goal. Making something great is the goal. Each group, then, is trying to do the right thing, but they’re pulling in different directions. If any one of those groups “wins,” we lose.
+
+- The key is to view conflict as essential, because that’s how we know the best ideas will be tested and survive.
+
+- The world is often unkind to new talent, new creations. The new needs friends.
 
 _
 
